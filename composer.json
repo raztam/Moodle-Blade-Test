@@ -1,0 +1,8 @@
+{
+    "name": "local/blade_test",
+    "description": "Blade template test for Moodle",
+    "type": "moodle-local",
+    "require": {
+        "illuminate/view": "^10.0"
+    }
+}
